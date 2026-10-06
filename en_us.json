@@ -1,0 +1,20 @@
+{
+  "item.powerarmor.mark1_helmet": "Mark I Helmet",
+  "item.powerarmor.mark1_chestplate": "Mark I Chestplate",
+  "item.powerarmor.mark1_leggings": "Mark I Leggings",
+  "item.powerarmor.mark1_boots": "Mark I Boots",
+  "item.powerarmor.mark2_helmet": "Mark II Helmet",
+  "item.powerarmor.mark2_chestplate": "Mark II Chestplate",
+  "item.powerarmor.mark2_leggings": "Mark II Leggings",
+  "item.powerarmor.mark2_boots": "Mark II Boots",
+  "item.powerarmor.mark3_helmet": "Mark III Helmet",
+  "item.powerarmor.mark3_chestplate": "Mark III Chestplate",
+  "item.powerarmor.mark3_leggings": "Mark III Leggings",
+  "item.powerarmor.mark3_boots": "Mark III Boots",
+  "itemGroup.powerarmor.main": "Power Armor",
+  "item.powerarmor.mark1_core": "Mark I Suit Core",
+  "item.powerarmor.mark2_core": "Mark II Suit Core",
+  "item.powerarmor.mark3_core": "Mark III Suit Core",
+  "trinkets.slot.suit.core": "Suit Core",
+  "trinkets.group.suit": "Suit"
+}
