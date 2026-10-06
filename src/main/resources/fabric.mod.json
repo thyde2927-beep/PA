@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "powerarmor",
+  "version": "${version}",
+  "name": "Power Armor",
+  "description": "Three 3D powered armor suits with a Suit Core inventory slot.",
+  "authors": [
+    "You"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.powerarmor.PowerArmor"
+    ],
+    "client": [
+      "com.example.powerarmor.PowerArmorClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "trinkets": "*"
+  }
+}
